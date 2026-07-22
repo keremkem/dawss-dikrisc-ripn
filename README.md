@@ -4,6 +4,16 @@
 **Status:** Conceptual / theoretical framework document. **Not an enabled implementation.**
 **License:** CC BY 4.0 (see [LICENSE](LICENSE))
 
+> **A note on what this is.** This is a hobby project, developed in collaboration with
+> Claude (Anthropic). The author is a physician-scientist (MD-PhD, neuroscience), **not a
+> physicist**, and makes no claim to professional expertise in general relativity,
+> high-energy physics, or propulsion engineering. This document is a speculative,
+> creative exploration of published physics concepts (Alcubierre, White, Van den Broeck,
+> Lentz, Bobrick & Martire, etc.) combined with known engineering materials — not a
+> scientific claim, a working design, or a submitted patent. It is shared publicly for
+> the reasons described below, in the spirit of open, honest, "here is an idea and here
+> is exactly how far it does and doesn't go" documentation.
+
 ## What this is
 
 This repository archives a conceptual patent-style document exploring speculative spacecraft
@@ -41,8 +51,11 @@ The purpose of this repository is:
 
 ## Contents
 
-- `docs/` — the full document (Word `.docx` format), including all chapters (1–13),
-  patent-claim-style sections, technical boundary statements, and validation roadmap.
+- `docs/DAWSS_DiKriS_C_Rev2_v6_EN.docx` — the full document in English (all 13 chapters),
+  including patent-claim-style sections, technical boundary statements, and validation
+  roadmap. This is the primary, citable edition.
+- `docs/DAWSS_DiKriS_C_Rev2_v6.docx` — the original Turkish-language edition, kept for
+  reference and authorship provenance.
 
 ## Citing this work
 
