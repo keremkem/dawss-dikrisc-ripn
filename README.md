@@ -1,4 +1,5 @@
 # DAWSS + DiKriS-C: A Speculative Propulsion Concept Framework
+[![DOI](https://zenodo.org/badge/1308535432.svg)](https://doi.org/10.5281/zenodo.21486922)
 
 **Author:** Kerem Kemik
 **Status:** Conceptual / theoretical framework document. **Not an enabled implementation.**
