@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use or reference this work, please cite it as below."
+title: "DAWSS + DiKriS-C: A Speculative Propulsion Concept Framework (with RIPN Radioisotope Standby Subsystem)"
+type: report
+authors:
+  - family-names: "Kemik"
+    given-names: "Kerem"
+    affiliation: "Dokuz Eylül University"
+version: "Rev.2 + DAWSS v5 Future Embodiment + RIPN"
+date-released: 2026-07-13
+license: "CC-BY-4.0"
+repository-code: "https://github.com/keremkem/REPLACE-WITH-REPO-NAME"
+keywords:
+  - speculative propulsion
+  - warp shell
+  - exotic energy
+  - spherical harmonic control
+  - diamagnetic stabilization
+  - radioisotope power systems
+  - conceptual physics
+abstract: >
+  A conceptual, non-enabled theoretical framework exploring spherical-harmonic warp-shell
+  control (DAWSS), diamagnetic crystal stabilization (DiKriS-C), topological/subluminal
+  future-embodiment extensions (DAWSS v5), and a three-tier radioisotope standby power and
+  restart subsystem (RIPN). Presented as speculative research framing, not a working device
+  or enabled implementation.
