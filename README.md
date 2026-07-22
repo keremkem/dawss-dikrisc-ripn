@@ -54,8 +54,6 @@ The purpose of this repository is:
 - `docs/DAWSS_DiKriS_C_Rev2_v6_EN.docx` — the full document in English (all 13 chapters),
   including patent-claim-style sections, technical boundary statements, and validation
   roadmap. This is the primary, citable edition.
-- `docs/DAWSS_DiKriS_C_Rev2_v6.docx` — the original Turkish-language edition, kept for
-  reference and authorship provenance.
 
 ## Citing this work
 
